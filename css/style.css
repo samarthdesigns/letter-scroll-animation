@@ -1,0 +1,96 @@
+	body{
+			padding: 0px;
+			margin: 0px;
+		}
+
+		.main{
+			height: 250vh;
+			width: 100%;
+			font-family: 'Montserrat', sans-serif;
+		}
+
+		.text{
+			height: 200px;
+			position: fixed;
+			top: 50vh;
+			left: 50%;
+			width: 100%;
+			transform: translate(-50%,-50%);
+			font-size: 40px;
+			color: #333;
+			line-height: 200px;
+			text-align: center;
+			transition: all .1s ease;
+		}
+
+		.one{
+			position: relative;
+			top: 0px;
+      color:#1abc9c;
+		}
+
+		.two{
+			position: relative;
+			top: 0px;
+      color:#3498db;
+		}
+
+
+		.three{
+			position: relative;
+			top: 0px;
+      color:#9b59b6;
+		}
+
+		.four{
+			position: relative;
+			top: 0px;
+      color:#2ecc71;
+		}
+
+		.five{
+			position: relative;
+			top: 0px;
+      color:#34495e;
+		}
+
+		.six{
+			position: relative;
+			top: 0px;
+      color:#e74c3c;
+		}
+
+		.seven{
+			position: relative;
+			top: 0px;
+      color:#e67e22;
+		}
+
+		.eight{
+			position: relative;
+			top: 0px;
+      color:#f1c40f;
+		}
+
+		.nine{
+			position: relative;
+			top: 0px;
+      color:#e67e22;
+		}
+
+		.ten{
+			position: relative;
+			top: 0px;
+      color:#333;
+		}
+
+		.scroll{
+			height: 0px;
+			position: absolute;
+			top: 300vh;
+		}
+  
+  i{
+    margin-left:10px;
+    margin-right:10px;
+  }
